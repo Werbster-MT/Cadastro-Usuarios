@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pedro Santos",
+      "email": "pedro@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Samuel Bruno",
+      "email": "samuel@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Maria Morais",
+      "email": "maria@gmail.com"
+    },
+    {
+      "name": "Greyce Helen Marques Teixeira",
+      "email": "greice.88@hotmail.com",
+      "id": 4
+    }
+  ]
+}
